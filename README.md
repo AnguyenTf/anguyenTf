@@ -15,6 +15,8 @@
   Currently learning: Advanced CUDA optimization techniques, parallel algorithm design, low‑level systems behavior, GPU architecture…
 </p>
 
+<br>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws" height="60" style="margin:0 28px;" />
       <img width="12" />
