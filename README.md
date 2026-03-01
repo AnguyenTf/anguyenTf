@@ -6,20 +6,14 @@
     <img src="/assets/gtx1080ti.png" width="25" style="vertical-align:middle; margin-right:10px;" /> 
     I'm a GPU‑focused programmer who builds GPU simulators, CUDA kernels, and parallel systems modeled after real world workloads, with a growing interest in performance analysis and next‑generation GPU architectures.</p>
 
-<br>
-
 <p align="left">
   <img src="/assets/stack.png" width="20" style="vertical-align:middle; margin-top:4px; margin-right:10px;" />
   Current stack: CUDA Toolkit, Python, C/C++, REST APIs, Linux, Docker, Git/GitHub, AWS (Lambda, EC2, RDS)</p>
-
-<br>
 
 <p align="left">
     <span style="display:inline-block; font-size:34px; margin-right:10px; vertical-align:middle;">⚙️</span>
   Currently learning: Advanced CUDA optimization techniques, parallel algorithm design, low‑level systems behavior, GPU architecture…
 </p>
-
-<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws" height="60" style="margin:0 28px;" />
